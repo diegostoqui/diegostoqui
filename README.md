@@ -1,6 +1,6 @@
 ## Hi, I’m Diego!
 
-* Since 2020, I’ve been programming in many projects with HTML, CSS and Javascript, React and now migrating to Python! 
+* Since 2020, I’ve been programming in many projects with HTML, CSS, Javascript and React and now migrating to Python! 
 * Each new technology used in developing new applications or supporting old applications urge me to acquire vastly different skills and tools, thus increasing my technical knowledge.
 * Trying to learn something new every day.
 
