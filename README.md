@@ -5,7 +5,7 @@
 * Trying to learn something new every day.
 
 ### Skills:
-* JavaScript, React, React Native, Python, Java, C#, C++, PHP, Git, MySql.
+* JavaScript, React, React Native, Python, Java, Git, MySql.
 
 ### Interests:
 * .NET Core, Flutter, Dart.
