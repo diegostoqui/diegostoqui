@@ -4,6 +4,12 @@
 * Each new technology used in developing new applications or supporting old applications urge me to acquire vastly different skills and tools, thus increasing my technical knowledge.
 * Trying to learn something new every day.
 
+<div align="center">
+  <a href="https://Farias-sys.github.io/Farias-sys/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ### Skills:
 * JavaScript, React, React Native, Python, Java, Git, MySql.
 
