@@ -11,13 +11,13 @@
 </div>
 
 ### Skills:
-* JavaScript, React, React Native, Python, Java, Git, MySql.
+* JavaScript, CSS, React, Git.
 
 ### Interests:
-* .NET Core, Flutter, Dart.
+* Typescript, Node. 
 
 ### Specialties:
-* JavaScript, CSS, Python, React. 
+* JavaScript, CSS. 
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=diegostoqui&show_icons=true&theme=dark" alt="diegostoqui | Stats" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegostoqui&langs_count=6&theme=dark&layout=compact" alt="diegostoqui | Langs" />
