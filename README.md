@@ -11,7 +11,7 @@
 </div>
 
 ### Skills:
-* JavaScript, CSS, React, Git.
+* JavaScript, CSS, React, C++, Git.
 
 ### Interests:
 * Typescript, Node. 
