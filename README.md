@@ -16,8 +16,5 @@
 
 Sempre em busca de novas linguagens, frameworks, tecnologias e tentando evoluir como programador.
 
-<div align="left">
-  <a href="https://github.com/diegostoqui/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
   
